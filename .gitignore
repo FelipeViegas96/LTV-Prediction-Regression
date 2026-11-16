@@ -1,0 +1,13 @@
+# Dados do curso (não versionados)
+data/*
+!data/README.md
+
+# Modelos gerados
+models/*
+!models/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
